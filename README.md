@@ -7,8 +7,8 @@
 <h3 align="center">A wiki for the online game Krew.io</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/github/contributors/Krew-io/krew-wiki?style=for-the-badge&color=f26248">
-    <img src="https://img.shields.io/github/last-commit/Krew-io/krew-wiki?style=for-the-badge&color=f26248">
+    <img src="https://img.shields.io/github/contributors/Krew-io/Wiki?style=for-the-badge&color=f26248">
+    <img src="https://img.shields.io/github/last-commit/Krew-io/Wiki?style=for-the-badge&color=f26248">
 </p>
 
 ---
