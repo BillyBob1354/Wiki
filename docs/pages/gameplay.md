@@ -1,77 +1,79 @@
-# Gameplay 
-Okay, so you're a person on a boat. What now?
-* Use the WASD keys to move your character to the edges of the ship and make the ship turn left or right.
+# Gameplay Guide
+
+Okay, so you had spawned in the world of [Krew.io](https://krew.io). What now?
 * Mouse to aim, click to shoot
+* Choose a tool by clicking the tool at the bottom or pressing `1`, `2`, and `3`.
 * Upgrade your stats by clicking the stat at the bottom or pressing `5`, `6`, and `7`.
 
-## Starting as a Raft 1 
-If you started on a [Raft 1](/pages/ships/rafts/raft1.md), there are several ways you could gain enough gold to upgrade to a bigger [Ship](/pages/ships.md) and make life a lot easier.
+![upgrades_bar](../assets/img/upgradesbar.png)
 
-### Fishing/Collecting Crabs and Clams 
+## Starting on an Island
+So you chose to spawn on an [island](/pages/islands.md), you'll be docked and given a [Raft 1](/pages/ships/rafts/raft1.md) on spawn. There are two ways for you to gain enough gold to upgrade your [ship](/pages/ships.md) or buy better [items](/pages/items.md) when starting on an island.
+
+### Fishing/Collecting Crabs and Shells
 
 Really, its the best starting strategy. One has no chance of dying and can usually collect 1000 a minute on average.
 
-### Attack a Raft 
+### Scavenging
 
-You could go around collecting cargo lying around the ocean, it takes longer, but there's no chance of death if you find a peaceful spot. You must be vigilant, as Rafts and others will often look for Rafts to attack.
+If you are lucky enough to find someone die near the coast of the island you're on, you will have the chance to take the loot of the dead person without getting attacked by the winner of the fight. This strategy is rare to happen and only happens through chance and luck but it is a profitable way to gain gold and levels.
 
-### Scavenge 
+## Starting on the Sea
+If you chose to spawn on the sea, you'll spawn in a random location on the sea and will be given a [Raft 1](/pages/ships/rafts/raft1.md). There are three ways to gain gold on the sea to upgrade your [ship](/pages/ships.md) or buy better [items](/pages/items.md).
 
-You could go near 2 ships which are fighting each other and steal the winner's spoils. The winner is often pissed off at thieves, so get away as quickly as possible!
+### Pirating
 
-### Picking the Ideal Island 
+If you believe you are a good captain and pirate. You'll be able to choose this kind of money making strategy. It will involve sinking other boats like what pirates do. After sinking a boat it will drop cargo crates for you to take. Be warned as some boats will have more better captains or there are boats near your area waiting to get you or your enemies crates. Also be wary in fighting near an island as there will be a higher chance of a boat undocking and cleaning the fight or a random person fishing the loot up.
 
-Once you have enough $2,400 for a [Raft 3](/pages/ships/rafts/raft3.md), you must now pick an ideal island to upgrade. You'd think the island with 1 raft is better than the island with 10 rafts fighting each other. But no! More conflict is actually **better** for Rafts. Many won't focus on a Raft if they're already fighting a Boat. And the island with the 1 raft could be a [Raft 2](/pages/ships/rafts/raft2.md) or [Raft 3](/pages/ships/rafts/raft3.md) which could easily sink a Raft.
+### Collecting Crates/Fishing
 
-## Trading Ships 
-If you are content with staying away from conflict and trading, you should get a Trader. Traders have low health and low maximum krew, but have thousands of cargo space. A [trader 1](/pages/ships/traders/trader1.md) is very effective and also not very much. 5 minutes of grind should yield one and (can be acquired easily after. Alternatively, travel in a fleet of other ships who have an alliance with you. Try to have enough Gold to fill up your cargo space to make the best of trading ships. It would be advisable to go straight for a Trader, as it is relatively cheap but has the most space and health among the trader ships. The Traders' slow speed and low health mean that it is easily sunk by pirates, and its large amounts of cargo makes it an even more valuable target, hence the best sailing route will be one that is safe, profitable and short.
+Crates spawn in the world of [krew.io](https://krew.io) time to time for you to take! These crates give gold and some exp, you can either fish a crate or drive through it. Either way you'll get gold! Only difference is fishing it will give xp so you can level up and driving through it will give you health. 
 
-## Starting as a Krew Member 
-If you started as a krew member, you will start with 50 damage credit shown in the top left. Get more damage credit by successfully hitting enemies. The more damage credit you have, the more you get for yourself when the ship picks up supplies. This is a proportional value, meaning that 100 damage credit out of 200 gets 1/2 of the supplies, and 1000/2000 also gets 1/2 of the supplies.
+### Scavenging
+
+Like the strategy when you spawn on an island. You can also scavenge while your out at sea! Only down fall is you may get killed for stealing someone's loot. Scavenging at sea requires you to watch a fight and be ready to take the loot and run.
+
+## Starting on someone's boat
+Choosing this option will either kill you or make you the richest person on the sea. Spawning on a random boat will make you a crewmate of that boat, you can either help your captain or kill him/her. Be warned that you may die when spawning on someone's boat if the captain kicks you off his/her boat. This option will give you 500 gold to start with as you don't start with a [Raft 1](/pages/ships/rafts/raft1.md). There are also three ways to get gold in this type of start.
+
+### Revenge!
+
+You can of course abandon the boat and murder your captain. It's like mutiny but no one may help you. This strat will require a ton of skill and determination, when you abandon a boat you will be given a plank which is the weakest boat in the game but the most agile. You'll be fighting against all odds to kill your old captain. If you kill him/her then you may become very rich or be on the bottom of the sea.
+
+### Pirate
+
+If your captain is a pirate then you also pirate as that's the only way you'll get money on a pirate boat, after killing another boat you can fish up the loot of the sunken boat which will give you gold and levels.
+
+### Trade
+
+This strat of making money will take a bit of persuasion and asking. Trading on someone's boat will be profitable since you'll already have a lot of cargo space. Only thing you need to do is to have your captain dock and let you buy goods so you can trade at other islands.
 
 ### Breaking Free 
 
-Once you get enough to buy a ship, you can break free from your kaptain, either by abandoning ship or politely asking your kaptain to go to an island.
+Once you get enough to buy a boat, you can break free from your captain, either by abandoning boat or politely asking your kaptain to go to an island.
 
-### Abandoning Ship 
+## Trading
 
-While abandoning ship is much quicker, you only get a [Wood Plank](/pages/ships/rafts/woodplank.md), which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
+So you decided that you want to be peaceful but you also want to make gold. Then you can go into this avenue of getting gold, Trading! Trading is the most peaceful way you can get gold. To trade you just have to buy cargo from one island then sell it at another that has a higher price for that cargo. It's recommended to get a [Trader 1](/pages/ships/traders/trader1.md) or [Trader 3](/pages/ships/traders/trader3.md) to trade since traders have high cargo space. It's highly advised to trade with a fleet of boats or having a crew on your trader, having alliances are also helpful when trading. Since pirates will target your boat due to traders being slow and low in health, it's easily sunk by pirates. hence the best sailing route would be the one which is safe, profitable, and short.
 
-### Go to Island 
-
-Politely asking usually only works if you have been serving for your kaptain for a long time, a form of honorable discharge.
-
-### Revenge? 
-
-If you wanted to, you can track down your old kaptain and sink him, if you have any grudges against him, of course. He always has transparent sails (until he buys a new ship).
-
-## Moving On Up 
-So you've been a [Raft 3](/pages/ships/rafts/raft3.md), merrily fighting in raft battle-royales that occur around supplies, and maybe you've had a close call or two with an imposing boat or destroyer. When should you become a boat? Then, how should you command a boat?
+## Moving up
+Say, you're tired of being a little raft and want to be on a big boat. You've had your fair share of close calls with bigger boats and now you want to be like them. Well you have to go up the food chain to get on one of the big ones, starting on your next step which is a Boat.
 
 ### Boat Time 
 
-Becoming a boat is a mix of patience and impatience. You think a boat would be so powerful. Yes, on paper, boats are so much more powerful than rafts. But in practice, this advantage is nullified by
-* Destroyers think boats are yummy targets.
-* Many boat kaptains are terrible, and their krew is even worse, at times not even fighting back against a Raft.
-* Many boats are either a [Boat 1](/pages/ships/boat/boat1.md) or [Boat 2](/pages/ships/boat/boat2.md), meaning they are slower than rank 3 ships.
-If possible, save up for a [Boat 3](/pages/ships/boat/boat3.md) ($16,000)
-
-### Boat Acquired 
-
-After you get a boat, it is recommended to stay away from corners, where destroyers can trap and destroy you. Most of all, don't chase after targets which are far away. There is a certain distance where the defender can shoot back while the attacker cannot. Bring your improved amount of krew to bear, and try to hug the enemy.
-
-## The Next Level 
-After a dozen or so minutes as a Boat, you'll notice that you've gathered up a decent amount of damage credit and maybe a few loyal krewmates who are decent marksmen. It's time to go to the next level. Aim for a [Destroyer 3](/pages/ships/destroyers/destroyer3.md) ($130,000). [Destroyer 1](/pages/ships/destroyers/destroyer1.md) ($50,000) and [Destroyer 2](/pages/ships/destroyers/destroyer2.md) ($80,000) are acceptable, but inevitably, a Destroyer will come along and engage with your inferior destroyer, and there is a very slim chance of victory with an inferior destroyer, even when the [Destroyer 3's](/pages/ships/destroyers/destroyer3.md) health is depleted.
+You've had enough of some other rafts being able to kill you with their more inferior skill? Well it's time to be a Boat! A Boat has moderate hp and speed which is a perfect pirating ship for beginners with a team. Some downsides of being a Boat is having those bigger boats target you more, it's advised to stay away from corners to avoid being trapped and to not chase after targets that are super far. Since ships that are shooting backwards will have more distance in their shots.
 
 ### Destroyer Life 
 
-Destroyer life is hard at first. You must get used to the very unwieldy turning of the destroyer, and you'll probably lose a few boats because the destroyer is not very maneuverable. The destroyer is not for chasing; it is for sheer brute force. The maximum amount of krew on a Destroyer is a powerful threat in the game, provided that all of them are at least half-decent at aiming.
+You've had amassed a fortune of gold in your time as a Boat. It's now time for you to be a destroyer! Destroyers are big, high hp and moderate speed ships. It's the perfect ship to dominate the server with a crew. Note that the destroyer is not very maneuverable. As long you have a decent crew then your ship should be a threat to the ones under you. Only downside is not realizing how big of a target you are to snipers which can perfectly demolish your crew at the right range.
 
-### Baby Fancies 
-This is probably the best choice if you are solo pirating. A Baby Fancy can handle a lot of damage and many others miss shots on it due to its sleek body shape. It has a good damage output (3 krew slots) for firing and has been known to create several glitches, often incorrectly referred to as "hacks". It also has a sail that allows it to go quite fast (5.9 units) and 300 health, or in the case of the [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md), 500 health. The cargo is either 500 or 600, which allows a little trading to be done on the side. The best trade route for a fancy would be Jamaica-Guinea, where one would attack traders and rafts along the way.
+### Baby Fancy Life
+
+Say you don't like having a crew but you can perfectly pirate by yourself. Then the baby fancy is the perfect boat for you. It's a cheap and small boat, very unhitable due to its small hitbox. Just kill some traders or bigger ships and play as a sniper you would definetly benefit in playing this kind of gameplay.
 
 ### Big Mamas 
-Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-7500). The largest ships are the [Fortune Trader](/pages/ships/big-mamas/fortunetrader.md) and the [Black Oyster](/pages/ships/big-mamas/blackoyster.md). It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the [Baby Fancy](/pages/ships/baby-fancies/babyfancy1.md) and [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md) due to their ship being so insanely large and easy to hit.
+
+Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-7500).. It is recommended that you have a moderate to large size of crew (10-25) when buying boats of these kinds. They have been known to fall to the snipers due to their boat being so insanely large and easy to hit.
 
 ## A Word of Warning 
-Be careful; if your ship sinks, you will lose your gold and you have to respawn. It's more desirable to retire when at a peaceful island, so your krew can continue your legacy under a new kaptain.
+Be careful; if your boat sinks, you will lose most of your gold and you have to respawn on a raft. It's more desirable to leave when at a peaceful island, so your crew can continue your legacy under a new kaptain.
