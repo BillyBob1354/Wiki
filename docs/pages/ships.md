@@ -49,6 +49,7 @@ All 25 ships are listed below:
 ---
  * [Queen Barb's Justice](/pages/ships/big-mamas/qbj.md)
  * [Queen Barb's Justice 2](/pages/ships/big-mamas/qbj2.md)
+ * [Night Wind](/pages/ships/big-mamas/nightwind.md)
  * [Black Oyster](/pages/ships/big-mamas/blackoyster.md)
  * [Fortune Trader](/pages/ships/big-mamas/fortunetrader.md)
  ---
@@ -56,7 +57,7 @@ All 25 ships are listed below:
  **Others**
 
  ---
-* [Royal Fortune](/pages/ships/big-mamas/royalfortune.md)
+ * [Royal Fortune](/pages/ships/big-mamas/royalfortune.md)
  * [Royal Fortune 2](/pages/ships/big-mamas/royalfortune2.md)
  * [Calm Spirit](/pages/ships/big-mamas/calmspirit.md)
  * [Calm Spirit 2](/pages/ships/big-mamas/calmspirit2.md)

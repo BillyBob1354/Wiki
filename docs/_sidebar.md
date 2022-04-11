@@ -31,6 +31,7 @@
     * Big Mamas
         * [Queen Barb's Justice](/pages/ships/big-mamas/qbj.md)
         * [Queen Barb's Justice 2](/pages/ships/big-mamas/qbj2.md)
+        * [Night Wind](/pages/ships/big-mamas/nightwind.md)
         * [Black Oyster](/pages/ships/big-mamas/blackoyster.md)
         * [Fortune Trader](/pages/ships/big-mamas/fortunetrader.md)
     * Others
