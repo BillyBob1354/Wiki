@@ -1,7 +1,7 @@
 |Title        | Black Oyster
 |:-|-:
-|Type         | Big Mama     
-|Price        | 550k Gold    
+|Type         | Big Mama
+|Price        | 550k Gold
 |Islands      | Jamaica
 |Hp           | 6000
 |Turnspeed    | 0.8

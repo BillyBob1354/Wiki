@@ -1,6 +1,6 @@
 |Title        | Calm Spirit
 |:-|-:
-|Type         | Others    
+|Type         | Big Mama
 |Price        | 100k Gold    
 |Islands      | Spain, Guinea, Cuba
 |Hp           | 1800

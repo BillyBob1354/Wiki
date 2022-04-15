@@ -1,7 +1,7 @@
-|Title        | Royal Fortune    
+|Title        | Royal Fortune
 |:-|-:
-|Type         | Other           
-|Price        | 70k Gold    
+|Type         | Big Mama
+|Price        | 70k Gold
 |Islands      | Labrador, Spain, Barbados, Taiwan
 |Hp           | 1000
 |Turnspeed    | 0.5

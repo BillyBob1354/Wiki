@@ -1,6 +1,6 @@
-|Title        | Royal Fortune 2  
+|Title        | Royal Fortune 2
 |:-|-:
-|Type         | Other            
+|Type         | Big Mama
 |Price        | 90k Gold    
 |Islands      | Jamaica, Taiwan
 |Hp           | 1300
