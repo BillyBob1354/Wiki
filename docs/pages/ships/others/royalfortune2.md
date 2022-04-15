@@ -11,5 +11,3 @@
 |Regeneration | 1
 
 <img src="assets/img/royalFortune.png" alt="Royal Fortune 2">
-
-        
