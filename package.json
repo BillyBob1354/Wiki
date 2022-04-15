@@ -1,0 +1,26 @@
+{
+  "name": "krew-wiki",
+  "version": "1.0.0",
+  "description": "A wiki for the online game Krew.io. Made using Docsify.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krew-io/Wiki.git"
+  },
+  "keywords": [],
+  "author": "DamienVesper",
+  "contributors": ["DamienVesper", "Kekmw"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krew-io/Wiki/issues"
+  },
+  "homepage": "https://github.com/Krew-io/Wiki#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
