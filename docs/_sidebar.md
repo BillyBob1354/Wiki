@@ -22,7 +22,7 @@
         * [Trader 2](/pages/ships/traders/trader2.md)
         * [Trader 3](/pages/ships/traders/trader3.md)
     * Baby Fancies
-        * [Baby Fancy](/pages/ships/baby-fancies/babyfancy1.md)
+        * [Baby Fancy](/pages/ships/baby-fancies/babyfancy.md)
         * [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md)
     * Destroyers
         * [Destroyer 1](/pages/ships/destroyers/destroyer1.md)

@@ -32,7 +32,7 @@ All 25 ships are listed below:
 **Baby Fancies**
 
 ---
- * [Baby Fancy](/pages/ships/baby-fancies/babyfancy1.md)
+ * [Baby Fancy](/pages/ships/baby-fancies/babyfancy.md)
  * [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md)
 ---
 
@@ -64,4 +64,3 @@ All 25 ships are listed below:
  * [Junkie](/pages/ships/big-mamas/junkie.md)
  * [Raider](/pages/ships/big-mamas/raider.md)
  ---
- 

@@ -1,4 +1,4 @@
-|Title        | Baby Fancy 1
+|Title        | Baby Fancy
 |:-|-:
 |Type         | Baby Fancy           
 |Price        | 8k Gold    
@@ -10,4 +10,4 @@
 |Cargo Size   | 600
 |Regeneration | 1
 
-<img src="assets/img/babyFancy.png" alt="Baby Fancy 1">
+<img src="assets/img/babyFancy.png" alt="Baby Fancy">
