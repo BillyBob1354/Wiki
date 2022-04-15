@@ -1,7 +1,8 @@
-<div align="center">
+<h1 align="center">Krew Wiki</h1>
+
+<h1 align="center">
     <img src="./docs/assets/img/logo.png" align="center" />
-    <h1>Krew Wiki</h1>
-</div>
+</h1>
 
 <h3 align="center">A wiki for the online game Krew.io</h3>
 
