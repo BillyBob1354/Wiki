@@ -1,5 +1,5 @@
 {
-  "name": "krew-wiki",
+  "name": "@krew-io/wiki",
   "version": "1.0.0",
   "description": "A wiki for the online game Krew.io. Made using Docsify.",
   "directories": {
