@@ -3,7 +3,7 @@
 |Type         | Destroyer           
 |Price        | 75k Gold    
 |Islands      | Every island Except Jamaica
-|Hp           | 2000
+|Hp           | 2700
 |Turnspeed    | 0.7
 |Speed        | 5.8
 |Max Capacity | 14

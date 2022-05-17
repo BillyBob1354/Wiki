@@ -1,8 +1,8 @@
 |Title        | Titanium Barrel              
 |:-|-:
 |Type         | Cannon                    
-|Effects      | +40% [Distance](/upgrades/distance.md)
-|Price        | 250k Gold    
+|Effects      | +45 [Distance](/upgrades/distance.md)
+|Price        | 300k Gold    
 |Islands      | Taiwan 
 
-The Titanium Barrel adds 40% Distance to your cannon. 
+The Titanium Barrel adds 45 Distance to your cannon. 

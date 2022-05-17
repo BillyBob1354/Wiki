@@ -5,7 +5,7 @@
 |Islands      | Only Obtainable Through Abandoning Ship
 |Hp           | 50
 |Turnspeed    | 1.2
-|Speed        | 7
+|Speed        | 6.8
 |Max Capacity | 1
 |Cargo Size   | 200
 |Regeneration | 1

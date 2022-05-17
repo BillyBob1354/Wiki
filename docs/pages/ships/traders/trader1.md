@@ -7,7 +7,7 @@
 |Turnspeed    | 0.5
 |Speed        | 5.1
 |Max Capacity | 4
-|Cargo Size   | 2000
+|Cargo Size   | 4000
 |Regeneration | 1
 
 <img src="assets/img/trader.png" alt="Trader 1" width="150px" length="150px">

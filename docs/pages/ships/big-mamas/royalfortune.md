@@ -3,9 +3,9 @@
 |Type         | Big Mama
 |Price        | 70k Gold
 |Islands      | Labrador, Spain, Barbados, Taiwan
-|Hp           | 1000
+|Hp           | 1200
 |Turnspeed    | 0.5
-|Speed        | 6.3
+|Speed        | 6.9
 |Max Capacity | 15
 |Cargo Size   | 1200
 |Regeneration | 1

@@ -1,7 +1,7 @@
 |Title        | Fortune Trader
 |:-|-:
 |Type         | Big Mama, Trader   
-|Price        | 550k Gold    
+|Price        | 600k Gold    
 |Islands      | Guinea
 |Hp           | 7500
 |Turnspeed    | 0.6

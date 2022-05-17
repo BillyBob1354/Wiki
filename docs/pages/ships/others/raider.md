@@ -5,7 +5,7 @@
 |Islands      | Spain
 |Hp           | 1200
 |Turnspeed    | 0.9
-|Speed        | 6.5
+|Speed        | 6.9
 |Max Capacity | 6
 |Cargo Size   | 1000
 |Regeneration | 1
