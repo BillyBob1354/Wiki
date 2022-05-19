@@ -52,6 +52,6 @@ There are 25 ships total. All are listed below:
 
  **Others**
  ---
- * [Junkie](/pages/ships/big-mamas/junkie.md)
- * [Raider](/pages/ships/big-mamas/raider.md)
+ * [Junkie](/pages/ships/others/junkie.md)
+ * [Raider](/pages/ships/others/raider.md)
  ---
