@@ -12,9 +12,9 @@ Krew.io is a multiplayer 3D third-person shooter browser game, with a pirate-bas
  * `ESC` - Lock player controls, releasing the mouse for UI navigation.
  * `Shift` - View the player leaderboard.
  * `Enter` - Send chat messages.
- * `WASD` - Move around on boats or islands. If you are the captain, moving to the sides of ships allows you to turn them.
+ * `WASD` - Move around on boats or islands. As captain, moving to the sides of ships allows you to turn them.
  * `Tab` - Toggle between individual chatrooms.
- * `1` `2` `3` - Switch the current equipped tool. Selects from the cannon, fishing rod, or spyglass, respectively.
+ * `1` `2` `3` - Switch the current equipped tool. Selects from the cannon, fishing rod, or spyglass.
  * `5` `6` `7` - Upgrade a player stat. Selects from fire rate, distance, or damage, respectively.
 
 ## Objective

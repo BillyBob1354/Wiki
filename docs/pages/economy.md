@@ -1,6 +1,6 @@
 # Economy
 
-<p style="color:#00FF00;">Note: All prices and values below are accurate as of 3/01/2021</p>
+<p style="color: #11f574;">Note: All values below are accurate as of 05/21/2022.</p>
 
 The economy is very basic, there are seven different types of goods all priced differently on each island. Different types of cargo take up more or less cargo space than others. Here is a list of all of the cargo types, and the space they take up.
 
@@ -42,8 +42,8 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
             <td>180</td><!-- Brazil -->
             <td>195</td><!-- Barbados -->
             <td>210</td><!-- Taiwan -->
-            <td style="background:#b50b0b;">270</td><!-- Cuba -->
-            <td style="background:#0f6e33;">70</td><!-- Labrador -->
+            <td class="cargo-danger">270</td><!-- Cuba -->
+            <td class="cargo-success">70</td><!-- Labrador -->
             <td>170</td><!-- Jamaica -->
         </tr>
         <tr>
@@ -52,8 +52,8 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
             <td>60</td><!-- Philippines -->
             <td>65</td><!-- Guinea -->
             <td>95</td><!-- Malaysia -->
-            <td style="background:#b50b0b;">125</td><!-- Brazil -->
-            <td style="background:#0f6e33;">25</td><!-- Barbados -->
+            <td class="cargo-danger">125</td><!-- Brazil -->
+            <td class="cargo-success">25</td><!-- Barbados -->
             <td>35</td><!-- Taiwan -->
             <td>40</td><!-- Cuba -->
             <td>45</td><!-- Labrador -->
@@ -62,12 +62,12 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
         <tr>
             <td>Spice</td>
             <td>210</td><!-- Spain -->
-            <td style="background:#b50b0b;">270</td><!-- Philippines -->
-            <td style="background:#0f6e33;">35</td><!-- Guinea -->
+            <td class="cargo-danger">270</td><!-- Philippines -->
+            <td class="cargo-success">35</td><!-- Guinea -->
             <td>135</td><!-- Malaysia -->
             <td>210</td><!-- Brazil -->
-            <td style="background:#b50b0b;">270</td><!-- Barbados -->
-            <td style="background:#0f6e33;">35</td><!-- Taiwan -->
+            <td class="cargo-danger">270</td><!-- Barbados -->
+            <td class="cargo-success">35</td><!-- Taiwan -->
             <td>90</td><!-- Cuba -->
             <td>120</td><!-- Labrador -->
             <td>130</td><!-- Jamaica -->
@@ -80,30 +80,30 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
             <td>185</td><!-- Malaysia -->
             <td>200</td><!-- Brazil -->
             <td>220</td><!-- Barbados -->
-            <td style="background:#b50b0b;">375</td><!-- Taiwan -->
-            <td style="background:#0f6e33;">70</td><!-- Cuba -->
+            <td class="cargo-danger">375</td><!-- Taiwan -->
+            <td class="cargo-success">70</td><!-- Cuba -->
             <td>110</td><!-- Labrador -->
             <td>170</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Gems</td>
             <td>210</td><!-- Spain -->
-            <td style="background:#0f6e33;">55</td><!-- Philippines -->
+            <td class="cargo-success">55</td><!-- Philippines -->
             <td>170</td><!-- Guinea -->
             <td>300</td><!-- Malaysia -->
             <td>375</td><!-- Brazil -->
             <td>400</td><!-- Barbados -->
             <td>475</td><!-- Taiwan -->
             <td>525</td><!-- Cuba -->
-            <td style="background:#b50b0b;">625</td><!-- Labrador -->
+            <td class="cargo-danger">625</td><!-- Labrador -->
             <td>375</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Sugar</td>
             <td>250</td><!-- Spain -->
             <td>290</td><!-- Philippines -->
-            <td style="background:#b50b0b;">325</td><!-- Guinea -->
-            <td style="background:#0f6e33;">65</td><!-- Malaysia -->
+            <td class="cargo-danger">325</td><!-- Guinea -->
+            <td class="cargo-success">65</td><!-- Malaysia -->
             <td>130</td><!-- Brazil -->
             <td>145</td><!-- Barbados -->
             <td>180</td><!-- Taiwan -->
@@ -116,8 +116,8 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
             <td>75</td><!-- Spain -->
             <td>120</td><!-- Philippines -->
             <td>145</td><!-- Guinea -->
-            <td style="background:#b50b0b;">190</td><!-- Malaysia -->
-            <td style="background:#0f6e33;">20</td><!-- Brazil -->
+            <td class="cargo-danger">190</td><!-- Malaysia -->
+            <td class="cargo-success">20</td><!-- Brazil -->
             <td>40</td><!-- Barbados -->
             <td>45</td><!-- Taiwan -->
             <td>60</td><!-- Cuba -->
@@ -130,37 +130,39 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
 <p>Lowest price in green, highest price in red.</p>
 
 # Route Analysis
-||Distance|$/weight|||
+Here are some other routes that you may consider if there is an issue with completing the above route.
+
+||Distance|Price|||
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|route #1|0.58|$18.00|coffee|Barbados to Brazil|
-||1.00|$24.00|bannanas|Brazil to Malaysia|
-||0.63|$10.42|sugar|Malaysia to Guinea|
-||1.36|$10.00|spice|Guinea to Barbados|
+|Route #1|0.58|$18.00|Coffee|Barbados to Brazil|
+||1.00|$24.00|Bananas|Brazil to Malaysia|
+||0.63|$10.42|Sugar|Malaysia to Guinea|
+||1.36|$10.00|Spice|Guinea to Barbados|
 ||3.58|$62.42|17.43 Units/distance||
 ---
-||Distance|$/weight|||
+||Distance|Price|||
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|route #2|0.58|$18.00|coffee|Barbados to Brazil|
-||0.58|$2.00|bananas|Brazil to Barbados|
+|Route #2|0.58|$18.00|Coffee|Barbados to Brazil|
+||0.58|$2.00|Bananas|Brazil to Barbados|
 ||1.17|$20.00|17.15 Units/distance||
 ---
-||Distance|$/weight|||
+||Distance|Price|||
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|route #3|0.58|$18.00|coffee|Barbados to Brazil|
-||1.00|$24.00|bannanas|Brazil to Malaysia|
-||0.63|$10.42|sugar|Malaysia to Guinea|
-||1.55|$6.25|gems|Guinea to Labrador|
-||0.58|$13.50|rum|Labrador to Cuba|
-||0.61|$11.67|silk|Cuba to Taiwan|
-||0.92|$12.50|spice|Taiwan to Barbados|
+|Route #3|0.58|$18.00|Coffee|Barbados to Brazil|
+||1.00|$24.00|Bananas|Brazil to Malaysia|
+||0.63|$10.42|Sugar|Malaysia to Guinea|
+||1.55|$6.25|Gems|Guinea to Labrador|
+||0.58|$13.50|Rum|Labrador to Cuba|
+||0.61|$11.67|Silk|Cuba to Taiwan|
+||0.92|$12.50|Spice|Taiwan to Barbados|
 ||5.89|$96.33|16.37 Units/distance||
 ---
-||Distance|$/weight|||
+||Distance|Price|||
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|route #4|0.58|$18.00|coffee|Barbados to Brazil|
-||1.29|$9.00|bananas|Brazil to Jamaica|
-||0.65|$12.50|rum|Jamaica to Cuba|
-||0.61|$11.67|silk|Cuba to Taiwan|
-||0.92|$12.50|spice|Taiwan to Barbados|
+|Route #4|0.58|$18.00|Coffee|Barbados to Brazil|
+||1.29|$9.00|Bananas|Brazil to Jamaica|
+||0.65|$12.50|Rum|Jamaica to Cuba|
+||0.61|$11.67|Silk|Cuba to Taiwan|
+||0.92|$12.50|Spice|Taiwan to Barbados|
 ||4.06|$63.67|15.70 Units/distance||
 ---

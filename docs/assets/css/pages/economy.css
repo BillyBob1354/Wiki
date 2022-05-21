@@ -1,1 +1,4 @@
 .cargo-table { margin: 0 auto; }
+
+.cargo-table .cargo-success { background: #03af5c !important; }
+.cargo-table .cargo-danger { background: #c21616 !important; }

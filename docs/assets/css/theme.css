@@ -20,6 +20,5 @@ footer hr.rounded {
     border-radius: 5px;
 }
 
-footer a {
-    text-decoration: none !important;
-}
+footer a { text-decoration: none !important; }
+footer a:hover { text-decoration: underline !important; }
