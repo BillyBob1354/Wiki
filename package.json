@@ -14,8 +14,7 @@
   },
   "keywords": [],
   "author": "DamienVesper",
-  "contributors": ["DamienVesper", "Kekmw"],
-  "license": "ISC",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/Krew-io/Wiki/issues"
   },
