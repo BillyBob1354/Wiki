@@ -18,9 +18,9 @@ Krew.io is a multiplayer 3D third-person shooter browser game, with a pirate-bas
  * `5` `6` `7` - Upgrade a player stat. Selects from fire rate, distance, or damage, respectively.
 
 ## Objective
-As with most other games of this genre, the primary goal is to become #1 on the leaderboard. In order to achieve such a feat, you can either forage for crabs and shells on [islands](./pages/islands.md) or kill other ships to gain money and upgrade your own [krew](./pages/ships.md).
+As with most other games of this genre, the primary goal is to become #1 on the leaderboard. In order to achieve such a feat, you can either forage for crabs and shells on [islands](pages/islands.md) or kill other ships to gain money and upgrade your own [krew](pages/ships.md).
 
-But you can't do it alone. A krew will provide extra firepower and insight with players of specialized skillsets. You can utilize [traders](./pages/ships/traders/trader1.md) to earn gold quickly, but will be an easy target, requiring a full krew or trusted fleet of ships to protect you.
+But you can't do it alone. A krew will provide extra firepower and insight with players of specialized skillsets. You can utilize [traders](pages/ships/traders/trader1.md) to earn gold quickly, but will be an easy target, requiring a full krew or trusted fleet of ships to protect you.
 
 <br>
 
