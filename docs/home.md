@@ -1,30 +1,27 @@
 # Welcome to the Krew.io Wiki
-Krew.io is a unique third person shooter style game that can be played [here](https://krew.io).
+Krew.io is a multiplayer 3D third-person shooter browser game, with a pirate-based theme, similar to [Sea of Thieves](https://www.seaofthieves.com/), where players complete to sink each other, gain loot, and become a succesful pirate. Although it is included within the .io games category, it provides a unique experience compared to other candidates as it encourages teamwork with other players to sink enemies.
 
-
-# What is Krew.io?
-Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall pirate theme, where players compete to sink each other, race for loot, and attempt to be a successful pirate. Included within the io games category, but vastly different to most .io games, it is mostly competitive, as players battle each other for #1, but is also somewhat cooperative, as players on the same ship will have to work together to sink enemies.
-
-![art0](/assets/img/art0.png)
+![Fanart by Bread__Crummbs](/assets/img/art/bread__crumbs/intro.png)
 
 
 # Gameplay Basics
 
 ## Controls
-* `Mouse` -  Control the Cannon. Press or hold the left mouse button, or `LMB`, to fire.
-* `ESC` - See your mouse and use it in menus.
-* `Shift` - View user leaderboard.
-* `Enter` - Chat, press again to send a message.
-* `WASD` - Move around and steer ship, if captain.
-* `Tab` - Switch between Global Chat and Local Chat without pressing escape to click between them.
-* `1` `2` `3` - Switch between your Cannon, Fishing Rod, or Spy Glass.
-* `5` `6` `7` - Upgrade your fire rate, distance, or damage.
+ * `Mouse` - Control your pitch and rotation.
+ * `LMB` - Unlock player controls, hold down to use the currently equipped tool.
+ * `ESC` - Lock player controls, releasing the mouse for UI navigation.
+ * `Shift` - View the player leaderboard.
+ * `Enter` - Send chat messages.
+ * `WASD` - Move around on boats or islands. If you are the captain, moving to the sides of ships allows you to turn them.
+ * `Tab` - Toggle between individual chatrooms.
+ * `1` `2` `3` - Switch the current equipped tool. Selects from the cannon, fishing rod, or spyglass, respectively.
+ * `5` `6` `7` - Upgrade a player stat. Selects from fire rate, distance, or damage, respectively.
 
 ## Objective
-As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for crabs and shells on the [islands](/pages/islands.md), or kill other players to gain money and buy better [ships](/pages/ships.md).
+As with most other games of this genre, the primary goal is to become #1 on the leaderboard. In order to achieve such a feat, you can either forage for crabs and shells on [islands](./pages/islands.md) or kill other ships to gain money and upgrade your own [krew](./pages/ships.md).
 
-But you can't do it alone. You will need a krew to provide extra firepower. You can use the trader boats to trade lots of goods to gain gold quickly, but will be an easy target and will need a full krew or fleet to protect you.
+But you can't do it alone. A krew will provide extra firepower and insight with players of specialized skillsets. You can utilize [traders](./pages/ships/traders/trader1.md) to earn gold quickly, but will be an easy target, requiring a full krew or trusted fleet of ships to protect you.
 
-<br><br>
+<br>
 
-![art1](/assets/img/art1.png)
+![Fanart by Sorrowspark](/assets/img/art/sorrowspark/splash.png)
