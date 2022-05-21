@@ -2,7 +2,7 @@
 
 <p style="color: #11f574;">Note: All values below are accurate as of 05/21/2022.</p>
 
-The economy is very basic, there are seven different types of goods all priced differently on each island. Different types of cargo take up more or less cargo space than others. Here is a list of all of the cargo types, and the space they take up.
+The economy is very basic, with seven different goods, all of which priced differently on each [island](/pages/island.md) and have varying space requirements. Here is a list of all such cargo: and the space they take up.
 
 - Rum: `10` cargo space
 - Coffee: `5` cargo space
@@ -12,9 +12,9 @@ The economy is very basic, there are seven different types of goods all priced d
 - Sugar: `12` cargo space
 - Bananas: `5` cargo space
 
-Trading is a simple money-making strategy, which makes use of the goods system. Head to an island that sells a good you desire at the cheapest price (see table below); fill your cargo with that commodity. Again, using the table below, find which island is buying the commodity you have at the highest price. Go to that island to sell your cargo, which will earn you a minimum profit of 150%.
+Trading is a simple money-making strategy, making use of the goods system. Head to an island that sells your desired good at the cheapest price and fill your cargo to the maximum possible with it. Find the island where the commodity is worth the most, sail there, and sell your cargo. You will profit at least 150% (raw) from any good via this method.
 
-Trading goods is the fastest way to get gold if you do it right. If you want to buy a pricey ship or item, this is usually the way to go.
+Trading is the fastest way to get gold, as long as you do it correctly. If you want to buy an expensive vessel or upgrade, this is usually the way to go.
 
 ## Prices
 
@@ -127,7 +127,7 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
     </tbody>
 </table>
 
-<p>Lowest price in green, highest price in red.</p>
+<p>Lowest prices are highlighted in green, and highest prices in red.</p>
 
 # Route Analysis
 Here are some other routes that you may consider if there is an issue with completing the above route.
@@ -165,4 +165,3 @@ Here are some other routes that you may consider if there is an issue with compl
 ||0.61|$11.67|Silk|Cuba to Taiwan|
 ||0.92|$12.50|Spice|Taiwan to Barbados|
 ||4.06|$63.67|15.70 Units/distance||
----
