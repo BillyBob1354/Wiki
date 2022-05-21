@@ -1,5 +1,5 @@
 @import './theme.css';
 @import './transitions.css';
 
-@import './pages/cargo.css';
 @import './pages/coverpage.css';
+@import './pages/economy.css';

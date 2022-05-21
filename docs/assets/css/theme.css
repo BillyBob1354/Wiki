@@ -1,12 +1,15 @@
 @import './scrollbar.css';
 
+/* Article Container */
+/* #main { max-width: calc(var(--content-max-width) + 5em) !important; } */
+
 /* Articles */
-p a {
+#main p a {
     text-decoration: none !important;
     color: #1e90ff !important;
 }
 
-p a:hover {
+#main p a:hover {
     text-decoration: none !important;
     color: #115af5 !important;
 }

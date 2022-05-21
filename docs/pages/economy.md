@@ -22,16 +22,16 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
     <tbody>
         <tr>
             <th></th>
-            <th>Spain </th>
-            <th>Phillipines </th>
-            <th>Guinea </th>
-            <th>Malaysia </th>
-            <th>Brazil </th>
-            <th>Barabados </th>
-            <th>Taiwan </th>
-            <th>Cuba </th>
-            <th>Labrador </th>
-            <th>Jamaica </th>
+            <th>Spain</th>
+            <th>Phillipines</th>
+            <th>Guinea</th>
+            <th>Malaysia</th>
+            <th>Brazil</th>
+            <th>Barabados</th>
+            <th>Taiwan</th>
+            <th>Cuba</th>
+            <th>Labrador</th>
+            <th>Jamaica</th>
         </tr>
         <tr>
             <td>Rum</td>
