@@ -1,0 +1,22 @@
+@import './scrollbar.css';
+
+/* Articles */
+p a {
+    text-decoration: none !important;
+    color: #1e90ff !important;
+}
+
+p a:hover {
+    text-decoration: none !important;
+    color: #115af5 !important;
+}
+
+/* Footer */
+footer hr.rounded {
+    border-top: 5px solid rgba(100, 100, 100, 0.808);
+    border-radius: 5px;
+}
+
+footer a {
+    text-decoration: none !important;
+}
