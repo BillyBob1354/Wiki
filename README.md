@@ -13,23 +13,25 @@
 
 ---
 
-## Contribute
-Make sure you have [pnpm](https://pnpm.io) installed before continuing.
+## Requirements
+ * [Node.js](https://nodejs.org)
+ * [pnpm](https://pnpm.io)
 
+## Contributing
 Fork the repository and clone it.
 
-The wiki uses something called docsify, which is an on-the-fly markdown renderer. To learn more about docsify and how to use it, visit their website [here](https://docsify.js.org/#/).
+This wiki utilizes docsify, which is an on-the-fly markdown renderer. To learn more about how to use it, visit their website [here](https://docsify.js.org/#/).
 
-All of the wiki is made in markdown, which is essentially text files with additional formatting. You can also add HTML within the markdown files for more complex elements. If you are unfamiliar with markdown formatting, check out [this](https://www.markdownguide.org/cheat-sheet/) website to view the basics of markdown formatting. `index.html` and `sitemap.xml` can be ignored.
+Wiki pages are written in markdown, which is essentially text files with additional formatting. You can also add HTML within the markdown files for more complex elements. If you are unfamiliar with markdown formatting, check out [this](https://www.markdownguide.org/cheat-sheet/) website to view the basics of markdown formatting. `index.html` and `sitemap.xml` can be ignored for your purposes.
 
-To test your changes, navigate to the parent directory of the `docs` folder and install project dependencies:
+To test your changes, navigate to the project directory and install dependencies:
 ```
 pnpm i
 ```
 
-Afterwards start docsify:
+Afterwards, start docsify:
 ```
 pnpm dev
 ```
 
-It will then host a webserver on `http://localhost:3000`, where you can view your changes.
+This will then host a webserver on `http://localhost:3000`, where you can view your changes.
