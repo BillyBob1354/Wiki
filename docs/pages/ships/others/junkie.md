@@ -10,4 +10,4 @@
 |Cargo Size   | 4500
 |Regeneration | 2
 
-<img src="assets/img/junkie.png" alt="Junkie" width="150px" length="150px">
+<img src="/assets/img/ships/junkie.png" alt="Junkie" width="150px" length="150px">

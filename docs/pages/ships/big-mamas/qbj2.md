@@ -10,4 +10,4 @@
 |Cargo Size   | 4000
 |Regeneration | 0
 
-<img src="assets/img/queenBarbsJustice.png" alt="Queen Barb's Justice 2"  width="150px" length="150px">
+<img src="/assets/img/ships/qbj.png" alt="Queen Barb's Justice 2" width="150px" length="150px">

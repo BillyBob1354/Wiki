@@ -10,4 +10,4 @@
 |Cargo Size   | 1200
 |Regeneration | 1
 
-<img src="assets/img/royalFortune.png" alt="Royal Fortune">
+<img src="/assets/img/ships/royalFortune.png" alt="Royal Fortune">

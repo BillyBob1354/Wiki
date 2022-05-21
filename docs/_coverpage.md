@@ -1,4 +1,4 @@
-![Krew logo](./assets/img/logos/favicon.png)
+![Krew logo](/assets/img/logos/favicon.png)
 
 <div id="coverpage">
     <h1>Krew.io Wiki</h1>

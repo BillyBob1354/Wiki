@@ -10,4 +10,4 @@
 |Cargo Size   | 1500
 |Regeneration | 5
 
-<img src="assets/img/blackOyster.png" alt="Black Oyster" width="150px" length="150px">
+<img src="/assets/img/ships/blackOyster.png" alt="Black Oyster" width="150px" length="150px">

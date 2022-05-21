@@ -10,4 +10,4 @@
 |Cargo Size   | 6000
 |Regeneration | 1
 
-<img src="assets/img/trader.png" alt="Trader 2" width="150px" length="150px">
+<img src="/assets/img/ships/trader.png" alt="Trader 2" width="150px" length="150px">

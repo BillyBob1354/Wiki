@@ -10,4 +10,4 @@
 |Cargo Size   | 600
 |Regeneration | 1
 
-<img src="assets/img/babyFancy.png" alt="Baby Fancy">
+<img src="/assets/img/ships/babyFancy.png" alt="Baby Fancy">

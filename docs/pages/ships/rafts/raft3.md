@@ -10,4 +10,4 @@
 |Cargo Size   | 400
 |Regeneration | 1
 
-<img src="assets/img/raft.png" alt="Raft 3">
+<img src="/assets/img/ships/raft.png" alt="Raft 3">

@@ -10,4 +10,4 @@
 |Cargo Size   | 200
 |Regeneration | 1
 
-<img src="assets/img/raft.png" alt="Wooden Plank">
+<img src="/assets/img/ships/raft.png" alt="Wooden Plank">

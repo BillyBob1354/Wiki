@@ -10,4 +10,4 @@
 |Cargo Size   | 2600
 |Regeneration | 4
 
-<img src="assets/img/calmSpirit.png" alt="Calm Spirit 2">
+<img src="/assets/img/ships/calmSpirit.png" alt="Calm Spirit 2">

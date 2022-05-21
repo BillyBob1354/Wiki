@@ -10,4 +10,4 @@
 |Cargo Size   | 1300
 |Regeneration | 1
 
-<img src="assets/img/destroyer.png" alt="Destroyer 2" width="150px" length="150px"
+<img src="/assets/img/ships/destroyer.png" alt="Destroyer 2" width="150px" length="150px">
